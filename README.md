@@ -62,7 +62,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nikita-sharma)  
+- 💼 [LinkedIn](www.linkedin.com/in/nikita-sharma-2373ab138)  
 - 📧 Email: **nik12ita06@gmail.com**  
 - 🌐 Portfolio Website (coming soon...)  
 
