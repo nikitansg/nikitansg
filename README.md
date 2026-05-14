@@ -51,7 +51,7 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](linkedin.com/in/nikita-sharma-2373ab138) 
+- 💼 [LinkedIn](www.linkedin.com/in/nikita-sharma-2373ab138) 
 - 📧 Email: **nik12ita06@gmail.com**  
 - 🌐 Portfolio Website (coming soon...)  
 
