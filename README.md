@@ -1,20 +1,20 @@
 #  👋Hi, I'm Nikita Sharma  
 
-🚀 **Machine Learning & Computer Vision Engineer** | AI Enthusiast | Data Science Practitioner  
+🚀 **Machine Learning, Deep Learning, & Computer Vision Engineer** | AI Enthusiast | Data Science Practitioner  
 
 🔹 Skilled in **Machine Learning, Deep Learning, and Computer Vision**  
 🔹 Experienced with **Python, TensorFlow, Keras, Scikit-learn, OpenCV**  
 🔹 Strong foundation in **predictive modeling, CNNs, data visualization (Power BI), and electronics-hardware integration**  
 
----
+
 
 ## 🌟 About Me  
 - 🎯 Passionate about building **AI-driven solutions** for **healthcare, environment, and smart systems**  
 - 📊 Interested in **data science, computer vision, NLP, and AI for social good**  
-- 🌱 Currently learning **MLOps & Generative AI**  
+- 🌱 Currently learning **Generative AI**  
 - 💡 Open to collaborations on **AI research projects and real-world ML applications**  
 
----
+
 
 ## 🔧 Tech Stack  
 
@@ -28,7 +28,7 @@
 - 📊 Data Analytics & Visualization  
 - ⚡ Predictive Modeling & Forecasting  
 
----
+
 
 ## 📌 Featured Projects  
 
@@ -48,19 +48,12 @@
 ### ⚡ Energy Requirement Prediction (India)  
 - Built **Power BI dashboard** for visualizing energy trends & forecasting needs  
 
----
-
-## 📊 GitHub Stats  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikitansg&layout=compact&theme=radical)  
-
----
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/nikita-sharma-2373ab138) 
+- 💼 [LinkedIn](linkedin.com/in/nikita-sharma-2373ab138) 
 - 📧 Email: **nik12ita06@gmail.com**  
 - 🌐 Portfolio Website (coming soon...)  
 
----
+
 ⭐️ From [nikitansg](https://github.com/nikitansg)
